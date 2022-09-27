@@ -4,8 +4,13 @@ import { TopNav } from './TopNav/TopNav';
 // import './App.css';
 
 function App() {
-  return <TopNav />;
-  <LandingPage />;
+
+  return (
+    <div>
+  <TopNav />
+  <LandingPage />
+  </div>
+  );
 }
 
 export default App;

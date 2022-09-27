@@ -1,6 +1,7 @@
 import React from 'react';
 
 export function SearchBar() {
-  return ( <p> SearchBar</p>
+  return (
+     <p> SearchBar</p>
   );
 }
