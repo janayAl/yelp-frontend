@@ -5,6 +5,7 @@ import { TopNav } from './TopNav/TopNav';
 
 function App() {
   return <TopNav />;
+  <LandingPage />;
 }
 
 export default App;

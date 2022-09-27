@@ -1,5 +1,13 @@
 import React from 'react';
+import { TopNav } from '../TopNav/TopNav';
+import { SearchBar } from '../SearchBar/SearchBar';
 
 export function LandingPage() {
-  return <div>LandingPage</div>;
+  return (
+    <>
+      <div>LandingPage</div>;
+     
+      <SearchBar />;
+    </>
+  );
 }
