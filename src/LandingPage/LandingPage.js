@@ -6,7 +6,7 @@ import { SearchBar } from '../SearchBar/SearchBar';
 
 export function LandingPage() {
   return (
-    <div>
+   <div>
       <SearchBar />
       
      
