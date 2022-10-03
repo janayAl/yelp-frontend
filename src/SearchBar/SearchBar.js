@@ -10,9 +10,8 @@ export function SearchBar () {
     <input class="input" type="text" placeholder="Your Zip Code"/>
   </p>
   <p class="control">
-    <a class="button is-static">
-      Search by Zip Code
-    </a>
+    <button class="button is-static">Search by Zip Code
+    </button>
   </p>
 </div>
 </>
